@@ -1,9 +1,9 @@
 package csc312;
 
-/* NAME: Naz-Al Islam, Sida Zhang
- * CLASS: CSC312
- * DATE: 12/05/2017
- * Project # 02
+/*
+ * Naz-Al Islam
+ * 12/05/2017
+ *
  */
 
 import java.io.File;
